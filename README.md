@@ -47,5 +47,6 @@ After completing all the above steps run the application by right click index.ht
 
 ![2](https://github.com/magnus390/Chatbot/assets/30699194/139217f7-f707-4f5e-be9a-53344f272492)<br/><br/>
 
-![3](https://github.com/magnus390/Chatbot/assets/30699194/afb3206e-e660-4351-a863-452b345260e0)
+![3](https://github.com/magnus390/Chatbot/assets/30699194/042fd637-f816-435a-8ea6-2c61cdfc26e0)
+
 
