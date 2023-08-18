@@ -9,7 +9,7 @@ Welcome to the Chatbot application where you can ask any questions and the answe
 
 **1. Setting up the repository in the local machine**
 
-To set up and run the full-stack application, follow the steps below:
+To set up and run the application, please follow the steps below:
 
 Clone the repository by copying the Git URL from GitHub and running the following command in your designated folder:
 
