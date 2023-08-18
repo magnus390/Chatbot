@@ -17,19 +17,19 @@ Clone the repository by copying the Git URL from GitHub and running the followin
 git clone git@github.com:magnus390/Chatbot.git
 ```
 
-Now open your favorite code editor for coding. In this setup, we will use Visual Studio Code.
+Now open your favorite code editor for coding. In this setup, we will use Visual Studio Code.<br/><br/>
 
 **2. Creating the API key**
 
-Create your account in openai.com website, after that create your api key using the below link:-
+Create your account on openai.com website, after that create your API key using the below link:-
 
 https://platform.openai.com/account/api-keys
 
-Also save the key somewhere else as after creating, it wont be visible to you.
+Also, save the key somewhere else as after creating, it won't be visible to you.<br/><br/>
 
 **3. Creating the config file**
 
-Create the config. js file in the same folder as other js, html, and css files and write the below code inside it:-
+Create the config.js file in the same folder as other JS, HTML, and CSS files and write the below code inside it:-
 
 ```
 const key = '<YOUR_API_KEY>';
@@ -37,7 +37,7 @@ const key = '<YOUR_API_KEY>';
 export default key;
 ```
 
-Replace <YOUR_API_KEY> with your actual key and don't forget to write config file in .gitignore file so that your credentials will be protected.
+Replace <YOUR_API_KEY> with your actual key and don't forget to write the config file in the .gitignore file so that your credentials will be protected.
 
 **4.  Running the application**
 
