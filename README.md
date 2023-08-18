@@ -5,7 +5,7 @@ Welcome to the Chatbot application where you can ask any questions and the answe
 **1.  Setting up the repository in the local machine**<br/>
 **2.  Creating the API key**<br/>
 **3.  Creating the config.js file**<br/>
-**4.  Running the application**<br/><br/><br/><br/>
+**4.  Running the application**<br/><br/>
 
 **1. Setting up the repository in the local machine**
 
