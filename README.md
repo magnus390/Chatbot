@@ -27,7 +27,7 @@ https://platform.openai.com/account/api-keys
 
 Also, save the key somewhere else as after creating, it won't be visible to you.<br/><br/>
 
-**3. Creating the config file**
+**3. Creating the config.js file**
 
 Create the config.js file in the same folder as other JS, HTML, and CSS files and write the below code inside it:-
 
