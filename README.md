@@ -11,7 +11,7 @@ Welcome to the Chatbot application where you can ask any questions and the answe
 
 To set up and run the application, please follow the steps below:
 
-Clone the repository by copying the Git URL from GitHub and running the following command in your designated folder:
+Clone the repository by copying the below URL in your designated folder:
 
 ```
 git clone git@github.com:magnus390/Chatbot.git
