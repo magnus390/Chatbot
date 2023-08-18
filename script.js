@@ -13,6 +13,9 @@ async function sendMessage(message) {
     userInput.disabled = true; // Disable input
     sendButton.disabled = true; // Disable send button
 
+    // Show processing indicator
+    appendMessage("Processing...", "processing");
+
     const response = await fetch(endpoint, {
         method: "POST",
         headers: {
@@ -27,6 +30,9 @@ async function sendMessage(message) {
 
     const data = await response.json();
     const botMessage = data.choices[0].message.content;
+
+    // Remove processing indicator
+    chatContainer.removeChild(chatContainer.lastChild);
 
     const botLines = botMessage.split("\n");
 
