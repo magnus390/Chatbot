@@ -1,3 +1,3 @@
-const key = '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';
+const key = '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';
 
 export default key;
