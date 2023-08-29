@@ -50,7 +50,7 @@ async function appendMessageLetterByLetter(message, role) {
     messageDiv.classList.add("message", role);
     chatContainer.appendChild(messageDiv);
 
-    const delay = 50; // Delay between each letter in milliseconds
+    const delay = 20; // Delay between each letter in milliseconds
     for (let i = 0; i < message.length; i++) {
         messageDiv.textContent += message[i];
         await new Promise(resolve => setTimeout(resolve, delay));
